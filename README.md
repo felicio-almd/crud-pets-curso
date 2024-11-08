@@ -24,7 +24,7 @@ A API fornece acesso a informações detalhadas sobre os pets, permitindo que os
 
 - PHP (versão recomendada: 11)
 - Composer
-- PostgreSQL
+- MySQL
 
 ### Instalação
 
